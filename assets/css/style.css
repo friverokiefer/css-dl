@@ -1,0 +1,93 @@
+body{
+    margin: auto;
+    width: 100%;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.header{
+    background-image: url("/assets/imgs/cat-banner2.jpg");
+    padding: 6em;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.header h1{
+    color: white;
+    font-style: bold;
+    font-size: 1.5em;
+    font-weight: 600;
+    margin: 0px;
+    text-align-last: right;
+}
+.header p{
+    color: white;
+    font-size: 1em;
+    font-weight: 200;
+    margin: 0px;
+    text-align-last: right;
+}
+
+.titulo{
+    color: #495D63;
+    font-size: 1em;
+    text-align: center;
+}
+.catstable {
+    width: 80%;
+    margin: auto;
+}
+
+.catstable td{
+    width: 50%;
+    padding: 1em;
+    text-align: center;
+
+}
+
+.catstable img{
+    width: 80%;
+    padding: 1em;
+    border-radius: 30em;
+}
+.cat-name{
+    text-align: center;
+    color: #495D63;
+    font-size: 2em;
+    font-weight: 400;
+
+.cat-description{
+    text-align: justify;
+}
+
+}
+.cat-funny-fact{
+    text-align: left;
+    font-weight: bold;
+    color: #495D63;
+}
+
+.divtable1{
+    background-color: #FAC8CD;
+}
+
+.divtable3{
+    background-color: #ceebe7;
+}
+
+h3{
+    color: #495D63;
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
+.footer {
+    background-color: #495D63;
+    padding: 0.4em;
+
+}
+.footer p{
+    color: white;
+    text-align: center;
+    margin: 0;
+    font-size: 0.8em;
+}
